@@ -6,8 +6,8 @@ Full Stack Developer | MERN Stack | Flask | Data Analysis | Machine Learning | G
 
 Full Stack Development: Proficient in creating end-to-end solutions using the MERN stack (MongoDB, Express.js, React, Node.js) and Flask for building dynamic and interactive web applications. Data Analysis: Skilled in analyzing and interpreting complex datasets to extract actionable insights, leveraging tools and techniques in data analytics. Machine Learning: Experienced in developing and deploying machine learning models to solve real-world problems, with a focus on predictive analytics and pattern recognition. Generative AI: Knowledgeable in generative AI technologies, including natural language processing and image generation, to build innovative and intelligent applications. Programming Languages: Competent in Java and C, with a solid understanding of object-oriented programming principles and software development best practices.
 
-* 🌍  I'm based in Gujranwala
-* ✉️  You can contact me at [wwwtalha85@gmail.com](mailto:wwwtalha85@gmail.com)
+* 🌍  I'm based in London
+* ✉️  You can contact me at [talha.tanveer.choudhary@gmail.com](mailto:talha.tanveer.choudhary@gmail.com)
 * 🧠  I'm learning GENAI
 * 🤝  I'm open to collaborating on Different Project
 * ⚡  Im Good man , Tell ever'one
